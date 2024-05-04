@@ -40,6 +40,11 @@ button i {
 
 input, select {
     padding: 0.25rem 0.5rem;
+    color: black;
+}
+
+select option {
+    color: black;
 }
 
 .hide {
